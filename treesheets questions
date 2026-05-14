@@ -1,0 +1,60 @@
+@question the entire treesheets tutorial
+
+@about styles for the entire grid, simile to grid color and grid size and the distinctions between both (grid size do not pass to heirs
+    @about if there is a difference to link same color grids or naming a cell for that grid, since cell owns grid
+        @about the distinction of cells with same name but different grid colors
+        
+        
+        
+@about cells having text, a grid and a parent pointer... as the cell text as a tag for the grid??
+
+        
+    
+@about the selection being the most important, the sun, the focus of treesheets system
+@about an analogy for the role of the selector within treesheets
+@about an analogy for the role of the selector within treesheets VS role of the grid VS role of the cell text
+
+
+contrast selector VS grid
+
+@about a note as the cell content of as naming a grid?
+
+@merging treesheets conversations from gemini, chatgpts, etc. to dedup and organize
+
+- test grid as selection
+    - why grids have x,y dimensions if HSWAP disregards it
+    
+- try rotation of nested cell as steps to flatten
+
+@about the statement "The motivation behind Hierarchy Swap is that you use TreeSheets to organize your data in tree format, but often, trees are not ideal to organize data, because they force you to make choices about what subdivision is most important. "
+    - so, HSWAP only for artificial, non-natural caused hierarchies?
+        - contrast of natural hierarchies vs artificial, social constructed hierarchies
+            - trees as the best way to organize data by subdivisions?
+                - exhaustive subdivisions of a tree
+                
+- questions and answers are commutable?
+
+
+- tibia as memory palace
+- tibia expanding treesheets framework extender
+- windows server 2003 expanding treesheets framework extender
+
+
+- within a tree, which possible sets there are?
+    - from those sets which ones do not have set order?
+    
+
+- compare the two structures of project from the tutorial example, with nesting and with siblings
+
+
+
+- compare the 'persons' examples of the tutorial as JSON possibilities of its positions
+
+- verify crowpi treesheets drafts, to address the 'zoom' and 'perspectives viewing' of hswap aardappel usecase
+
+- check GTD common factors, versus verb regency, versus INHERSION factoring of attributes of a thing
+
+- read all hswap, swap, hierarchy, chatgpt chats
+
+- simulate hswap with only cartersian plan, without nesting
+

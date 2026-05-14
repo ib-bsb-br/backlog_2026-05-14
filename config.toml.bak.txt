@@ -1,0 +1,25 @@
+approval_policy = "never"
+sandbox_mode = "danger-full-access"
+personality = "pragmatic"
+model = "gpt-5.5"
+model_reasoning_effort = "xhigh"
+
+[marketplaces.openai-bundled]
+last_updated = "2026-05-09T17:24:21Z"
+source_type = "local"
+source = '\\?\C:\Users\mario.seixas_prf\.codex\.tmp\bundled-marketplaces\openai-bundled'
+
+[plugins."browser-use@openai-bundled"]
+enabled = true
+
+[plugins."chrome@openai-bundled"]
+enabled = true
+
+[projects.'c:\users\mario.seixas_prf\desktop\trimsheets-main']
+trust_level = "trusted"
+
+[projects.'c:\users\mario.seixas_prf\documents\codex\2026-05-09\browser-plugin-browser-use-openai-bundled']
+trust_level = "trusted"
+
+[windows]
+sandbox = "unelevated"

@@ -1,0 +1,520 @@
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Cadastramento da Ocorrência
+26019925B01
+Protocolo
+26019925B01
+Latitude/longitude do local do sinistro
+-15,728696
+-48,193127
++
+-
+Leaflet
+Insira manualmente as coordenadas. Utilize vírgula como separador decimal
+
+Sinistro ocorrido fora da circunscrição da PRF?  apenas sinistros envolvendo viatura ou servidor PRF
+Município-UF
+BRASILIA-DF
+Rodovia
+080 - Principal
+Km
+12.9
+Sentido da via
+Decrescente
+Agentes
+CPF	Nome	Matrícula	Responsável	
+02512375161	MÁRIO SEIXAS	3158094	
+Sim
+16012341717	GUILSON DIAS	3313528	
+Não
+Data hora sinistro
+09/04/2026
+07:50
+Data hora fim do atendimento no local
+09/04/2026
+09:20
+ Condições Ambientais e descrição do local
+Fase do dia
+Pleno dia
+Condição meteorológica
+Céu Claro
+Classificação da pista
+Principal
+Tipo de pista
+Simples
+Condição da pista
+
+Seca
+
+Molhada
+
+Com Buraco
+
+Com Gelo
+
+Com Lama
+
+Com Material Granulado
+
+Escorregadia
+Tipo do pavimento
+Asfalto
+Estrutura Viária
+
+Reta
+
+Curva
+
+Aclive
+
+Declive
+
+Interseção de Vias
+
+Rotatória
+
+Desvio Temporário
+
+Em Obras
+
+Ponte
+
+Viaduto
+
+Retorno Regulamentado
+
+Túnel
+Localidade urbanizada
+Existe canteiro central
+Existe acostamento
+ Situação do Local
+Imagem Panorâmica - Sentido Crescente (M015)
+No file chosen
+
+Imagem Panorâmica - Sentido decrescente (M015)
+No file chosen
+
+Justificativa pela não inclusão das fotos panorâmicas obrigatórias (M015)
+ Dano Social
+Houve dano ao patrimônio da união
+Houve dano ao meio ambiente
+ Presença externa na cena do sinistro
+Presença externa na cena do sinistro
+Sim	Não
+Presenças
+Presença na cena	Quem acionou? / Informações complementares	Data e hora do acionamento	Compareceu?	Data e hora do comparecimento	
+Corpo de bombeiros	envolvidos	09/04/2026 07:50	
+Sim
+ Informações Complementares
+Informações Complementares
+Imagens Complementares
+No file chosen
+ Nenhuma imagem selecionada
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Veículos
+Protocolo: 26019925B01
+V1
+Placa	Marca/modelo ou descrição		Ações
+JHT8426	PEUGEOT/206 14 SENSAT FX	Tracionador	
+V2
+Placa	Marca/modelo ou descrição		Ações
+UBI8G06	MOTTU/SPORT 110I	Tracionador	
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Identificação
+Protocolo: 26019925B01
+Sequencial/Tração
+V1
+Tracionador
+Tipo Emplacamento
+Nacional (registrado na base BIN)
+Sentido do Veículo
+Decrescente
+Placa
+JHT8426
+Tipo de veículo
+
+Automóvel
+Chassi
+9362AKFW98B038361
+Tipo de combustível
+Gasolina
+Renavam
+00945671563
+Marca/Modelo
+PEUGEOT/206 14 SENSAT FX
+Espécie
+Passageiro
+Categoria
+Particular
+Ano Fabricação
+2007
+Cor
+Prata
+Oficial da União?
+Velocidade máxima admitida na via
+40
+Km/h
+ Dados de registro do veículo
+Nome
+ARINALDO PEREIRA FONSECA
+CPF/CNPJ
+041.477.861-89
+Logradouro
+Número
+Complemento
+Bairro
+Município/UF (Emplacamento)
+BRASILIA-DF
+Telefone
+Email
+ Cronotacógrafo
+Cronotacógrafo é obrigatório para este veículo
+ Relatório de Avarias
+V trueV 1-JHT8426-PEUGEOT/206 14 SENSAT FX
+ANEXO I – RELATÓRIO DE AVARIAS PARA CLASSIFICAÇÃO DE DANOS EM VEÍCULOS SINISTRADOS – AUTOMÓVEIS, CAMIONETAS, CAMINHONETES E UTILITÁRIOS, COM ESTRUTURA EM MONOBLOCO – COMPONENTES, PEÇAS ESTRUTURAIS/SEGURANÇA PASSIVA AVARIADAS NO SINISTRO.
+Item	Danificado	Justificativa
+Painel corta-fogo	
+Longarina dianteira esquerda	
+Caixa de roda dianteira esquerda	
+Estrutura da soleira esquerda	
+Air Bags Frontais	
+Air Bags Laterais	
+Estrutura da coluna dianteira esquerda	
+Estrutura da coluna central esquerda	
+Estrutura da coluna traseira esquerda	
+Caixa de roda traseira esquerda	
+Assoalho central esquerdo	
+Longarina traseira esquerda	
+Assoalho portamalas ou caçamba	
+Longarina traseira direita	
+Caixa de roda traseira direita	
+Estrutura da coluna traseira direita	
+Estrutura da soleira direita	
+Estrutura da coluna central direita	
+Estrutura da coluna dianteira direita	
+Assoalho central direito	
+Caixa de roda dianteira direita	
+Longarina dianteira direita	
+Dano de monta
+PEQUENA MONTA (DPM) OU SEM DANO
+Imagem da frente
+No file chosen
+
+Imagem da lateral esquerda
+No file chosen
+
+Imagem da traseira
+No file chosen
+
+Imagem da lateral direita
+No file chosen
+ Imagem da lateral direita
+Justificativa pela não inserção de alguma das imagens do veículo
+Observações
+ Encaminhamento
+Veículo encaminhado
+ Informações complementares
+Manobra no momento do sinistro
+Realizando retorno irregular
+Informações complementares
+Imagens Complementares
+
+Disponível na impressão
+acesso irregular à escola
+No file chosen
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Identificação
+Protocolo: 26019925B01
+Sequencial/Tração
+V2
+Tracionador
+Tipo Emplacamento
+Nacional (registrado na base BIN)
+Sentido do Veículo
+Decrescente
+Placa
+UBI8G06
+Tipo de veículo
+
+Motocicleta
+Chassi
+92EC10BATTM005028
+Tipo de combustível
+Gasolina
+Renavam
+01483393167
+Marca/Modelo
+MOTTU/SPORT 110I
+Espécie
+Passageiro
+Categoria
+Particular
+Ano Fabricação
+2026
+Cor
+Preta
+Oficial da União?
+Velocidade máxima admitida na via
+40
+Km/h
+ Dados de registro do veículo
+Nome
+MOTTU VI S.A.
+CPF/CNPJ
+59.976.208/0002-74
+Logradouro
+Número
+Complemento
+Bairro
+Município/UF (Emplacamento)
+CURITIBA-PR
+Telefone
+Email
+ Cronotacógrafo
+Cronotacógrafo é obrigatório para este veículo
+ Relatório de Avarias
+V trueV 2-UBI8G06-MOTTU/SPORT 110I
+ANEXO II – RELATÓRIO DE AVARIAS PARA CLASSIFICAÇÃO DE DANOS EM VEÍCULOS SINISTRADOS – MOTOCICLETAS, CICLOMOTORES, TRICICLOS E QUADRICICLOS – COMPONENTES, PEÇAS ESTRUTURAIS/SEGURANÇA PASSIVA AVARIADAS NO SINISTRO.
+Item	Danificado	Justificativa
+Mesa superior da suspensão dianteira	
+Mesa inferior da suspensão dianteira	
+Coluna de direção	
+Chassi	
+Garfo traseiro	
+Dano de monta
+PEQUENA MONTA (DPM) OU SEM DANO
+Imagem da frente
+No file chosen
+
+Imagem da lateral esquerda
+No file chosen
+
+Imagem da traseira
+No file chosen
+
+Imagem da lateral direita
+No file chosen
+
+Justificativa pela não inserção de alguma das imagens do veículo
+Observações
+ Encaminhamento
+Veículo encaminhado
+ Informações complementares
+Manobra no momento do sinistro
+Ultrapassando
+Informações complementares
+Após conversa com o condutor, este autorizou a liberação deste veículo para JACIARA PEREIRA FIUSA (07038039130)
+Imagens Complementares
+
+Disponível na impressão
+pessoa autorizada, pelo condutor, para ter a posse deste veículo
+No file chosen
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Pessoas
+26019925B01 - Boletim
+V1
+JHT8426
+Nome	Envolvimento	Estado Físico	Situação	Ações
+LIA REBECA MELO DE MORAES FONSECA	Condutor	Ileso	Identificado	
+V2
+UBI8G06
+Nome	Envolvimento	Estado Físico	Situação	Ações
+IGOR ANDRADE DE CASTRO	Condutor	Lesões Leves	Identificado	
+Nome	Envolvimento	Estado Físico	Situação	Ações
+Nenhum envolvido adicionado
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Identificação
+26019925B01 - Boletim
+Veículo
+V1-Nacional (registrado na base BIN)
+Situação
+Proprietário?
+Estado físico
+Ileso
+Morreu após remoção?
+CPF
+041.477.861-89
+Nome
+LIA REBECA MELO DE MORAES FONSECA
+Data nascimento
+07/08/1994
+Sexo
+Feminino
+Estado civil
+Grau instrução
+Nome da mãe
+LUCY ROSA MELO DE MORAES
+Logradouro
+QD 01 CS 49
+N°
+Complemento
+ST SUL
+Bairro
+BRAZANDIA
+Município/UF
+BRASILIA-DF
+Telefone
+Email
+ Habilitação
+Categoria
+B
+Motorista profissional?
+N° do registro
+06464698902
+UF
+DF
+Data 1ª habilitação
+08/09/2015
+Validade da habilitação
+22/10/2025
+Observações CNH
+99
+ Circunstâncias do indivíduo
+Usava cinto de segurança corretamente
+Sim
+Preencheu termo de declaração do envolvido?
+Imagem da declaração
+No file chosen
+
+ Uso de álcool e/ou substâncias psicoativas
+Não foi possível realizar o teste do etilômetro
+Recusou-se a realizar o teste do etilômetro
+Visíveis sinais de embriaguez
+Sinais de uso de substância psicoativa
+Resultado obtido
+0.0
+mg/l
+ Encaminhamento
+Envolvido encaminhado
+ Situação de vulnerabilidade social
+Envolvido encontra-se em situação de vulnerabilidade social
+ Informações complementares
+Descrição
+Imagens Complementares
+
+Disponível na impressão
+cnh
+No file chosen
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Identificação
+26019925B01 - Boletim
+Veículo
+V2-Nacional (registrado na base BIN)
+Situação
+Proprietário?
+Estado físico
+Lesões Leves
+Morreu após remoção?
+CPF
+072.898.211-06
+Nome
+IGOR ANDRADE DE CASTRO
+Data nascimento
+21/10/1996
+Sexo
+Masculino
+Estado civil
+Grau instrução
+Nome da mãe
+MARIA APARECIDA PEREIRA DE ANDRADE
+Logradouro
+QUADRA 08
+N°
+20
+Complemento
+CASA
+Bairro
+BRAZLANDIA
+Município/UF
+BRASILIA-DF
+Telefone
+Email
+ Habilitação
+Categoria
+AB
+Motorista profissional?
+N° do registro
+07883633500
+UF
+DF
+Data 1ª habilitação
+21/07/2022
+Validade da habilitação
+27/12/2031
+Observações CNH
+15
+ Circunstâncias do indivíduo
+Usava capacete corretamente
+Sim
+Preencheu termo de declaração do envolvido?
+ Uso de álcool e/ou substâncias psicoativas
+Não foi possível realizar o teste do etilômetro
+Descrição da impossibilidade de realização do teste
+em atendimento hospitalar
+Visíveis sinais de embriaguez
+Sinais de uso de substância psicoativa
+ Encaminhamento
+Envolvido encaminhado
+Motivo
+Socorro médico
+Tipo
+Hospital ou clínica
+Descrição
+Cidadão encaminhado pelo CBM-DF ao hospital regional de brazlândia
+ Situação de vulnerabilidade social
+Envolvido encontra-se em situação de vulnerabilidade social
+ Informações complementares
+Descrição
+Imagens Complementares
+No file chosen
+ Nenhuma imagem selecionada
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES 
+ Causas
+26019925B01
+Causas Presumíveis  Para estatísticas. Não será disponibilizado na impressão.
+Tipo	Principal	
+Ultrapassagem Indevida	Não	
+Acesso irregular	Sim	
+ Eventos Sucessivos
+Eventos Sucessivos
+Ordem	Tipo Evento	Veiculos	Ações
+1	Colisão lateral mesmo sentido	
+ Amarração
+Tipo de Amarração (M-015)
+Justificativa pela não realização da amarração
+Não preconizada pelo manual para esta situação.
+ Narrativa
+[[placeholder]]
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+

@@ -1,0 +1,835 @@
+No. Inhesion is not commutative, not symmetrical, and not reciprocal in the strict same-relation sense. It is an asymmetric, directional, categorially ordered relation between a dependent determination and its bearer.
+
+The basic form is:
+
+    D inheres in S
+
+where:
+
+    D = dependent determination: property, quality, accident, mode, state, disposition, feature
+    S = bearer: subject, substance, substrate, thing qualified, entity determined
+
+Example:
+
+    redness inheres in the apple
+
+This does not imply:
+
+    the apple inheres in redness
+
+The reverse is not merely false; in the classical substance/accident framework it is a category mistake. Redness is the dependent determination. The apple is the bearer. Their roles are not interchangeable.
+
+The correct converse is not:
+
+    S inheres in D
+
+but:
+
+    S bears D
+    S has D
+    S is qualified by D
+    S is determined by D
+
+So the proper pair is:
+
+    redness inheres in the apple
+    the apple bears redness
+
+not:
+
+    redness inheres in the apple
+    the apple inheres in redness
+
+I. Strict answer
+
+Inhesion has this logical profile:
+
+| Question | Answer | Reason |
+|---|---|---|
+| Is it commutative? | No, if “commutative” means “the terms can be swapped” | The order D → S is essential |
+| Is it symmetrical? | No | If D inheres in S, S does not inhere in D |
+| Is it reciprocal? | Not in the strict same-predicate sense | The reverse relation is “bears,” not “inheres in” |
+| Is it directional? | Yes | It runs from dependent determination to bearer |
+| Is it asymmetric? | Yes | The relation cannot be reversed while preserving meaning |
+| Does it have a converse? | Yes | “D inheres in S” corresponds to “S bears D” |
+| Is it a relation of dependence? | Yes | D depends on S for concrete existence |
+| Is it a relation of qualification? | Yes | S is made to be thus-and-so by D |
+
+The compact answer is:
+
+    InheresIn(D, S) is true.
+    InheresIn(S, D) is false or categorially improper.
+    Bears(S, D) is true.
+
+Therefore:
+
+    InheresIn(D, S) ⇔ Bears(S, D)
+
+but not:
+
+    InheresIn(D, S) ⇔ InheresIn(S, D)
+
+II. Clarifying “commutative”
+
+Strictly speaking, “commutative” is primarily a property of operations, not relations.
+
+For example, addition is commutative:
+
+    a + b = b + a
+
+Multiplication is also commutative over ordinary numbers:
+
+    a × b = b × a
+
+But subtraction is not commutative:
+
+    a - b ≠ b - a
+
+Relations are more commonly classified as symmetrical, asymmetrical, reflexive, transitive, and so on.
+
+So the technically precise question is not:
+
+    Is inhesion commutative?
+
+but:
+
+    Is inhesion symmetrical?
+    Can the relata be reversed?
+    Is the converse relation the same as the original relation?
+
+The answer is no.
+
+However, if by “commutative” you mean “can I swap the terms without changing the truth or structure?”, then inhesion is not commutative.
+
+Why?
+
+Because:
+
+    redness inheres in the apple
+
+does not commute into:
+
+    the apple inheres in redness
+
+The order is essential.
+
+The structure is:
+
+    dependent determination → bearer
+
+not:
+
+    bearer → dependent determination
+
+III. Clarifying “symmetrical”
+
+A relation R is symmetrical when:
+
+    R(a, b) → R(b, a)
+
+Example:
+
+    a is equal in height to b
+    therefore b is equal in height to a
+
+or:
+
+    a is a sibling of b
+    therefore b is a sibling of a
+
+But inhesion is not like this.
+
+If:
+
+    fragility inheres in glass
+
+it does not follow that:
+
+    glass inheres in fragility
+
+If:
+
+    heat inheres in iron
+
+it does not follow that:
+
+    iron inheres in heat
+
+If:
+
+    curvature inheres in a surface
+
+it does not follow that:
+
+    the surface inheres in curvature
+
+If:
+
+    courage inheres in a person
+
+it does not follow that:
+
+    the person inheres in courage
+
+So inhesion is not symmetrical.
+
+Its formal structure is:
+
+    I(D, S) → not I(S, D)
+
+where:
+
+    I = inheres in
+    D = dependent determination
+    S = bearer
+
+This makes it asymmetrical, at least under the standard categorial interpretation.
+
+IV. Clarifying “reciprocal”
+
+“Reciprocal” is more ambiguous than “symmetrical.” It can mean several things.
+
+1. Same-relation reciprocity
+
+This would mean:
+
+    if D inheres in S,
+    then S inheres in D.
+
+Inhesion is not reciprocal in this sense.
+
+The apple does not inhere in its redness.
+The glass does not inhere in its fragility.
+The person does not inhere in courage.
+The surface does not inhere in curvature.
+
+2. Converse-relation reciprocity
+
+This means that the original relation has a corresponding inverse expression.
+
+In this weaker sense, inhesion has a converse.
+
+If:
+
+    D inheres in S
+
+then:
+
+    S bears D
+
+So:
+
+    redness inheres in the apple
+    the apple bears redness
+
+    fragility inheres in the glass
+    the glass bears fragility
+
+    heat inheres in the iron
+    the iron bears heat
+
+    courage inheres in the person
+    the person bears courage
+
+This is a reciprocal-looking pair, but it is not symmetry. It is converse correlation.
+
+The relation has two sides:
+
+    inhering side: D inheres in S
+    bearing side: S bears D
+
+But the two sides are not the same predicate.
+
+The relation is therefore correlative, not symmetrical.
+
+3. Mutual-dependence reciprocity
+
+Another possible meaning of reciprocal is mutual dependence.
+
+Inhesion is not reciprocal in this strong ontological sense either.
+
+The dependent determination depends on the bearer for its concrete existence.
+
+For example:
+
+    this apple's redness depends on this apple as its bearer
+
+But the apple does not usually depend on this exact redness in the same way. The apple may become green, brown, bruised, pale, or rotten while remaining the same apple for some period of change.
+
+So the dependence is not equal.
+
+The determination depends on the bearer for being.
+The bearer is qualified by the determination, but is not usually existentially dependent on that exact determination.
+
+V. The precise logical structure
+
+Let:
+
+    I(x, y) = x inheres in y
+    B(y, x) = y bears x
+
+Then:
+
+    I(D, S) ⇔ B(S, D)
+
+This means:
+
+    D inheres in S if and only if S bears D.
+
+But:
+
+    I(D, S) does not imply I(S, D)
+
+Indeed, under the standard meaning:
+
+    I(D, S) → not I(S, D)
+
+So:
+
+    I ≠ I⁻¹
+
+That is:
+
+    the inheres-in relation is not identical with its converse.
+
+Its converse is:
+
+    is borne by
+    is had by
+    is possessed as a determination by
+    is predicable of
+    qualifies
+
+Thus:
+
+    InheresIn(redness, apple)
+    Bears(apple, redness)
+
+not:
+
+    InheresIn(apple, redness)
+
+VI. Why the reversal fails
+
+The reversal fails because inhesion is not a relation between two terms of the same ontological rank.
+
+It is not like:
+
+    sibling of
+    adjacent to
+    equal to
+    similar to
+
+Those relations can often hold between terms of the same type.
+
+Inhesion relates terms of different roles:
+
+    accident → substance
+    quality → qualified thing
+    mode → modal subject
+    state → state-bearer
+    property-instance → propertied individual
+    disposition → disposed object
+    attribute → attributed entity
+
+The relation is therefore categorially ordered.
+
+The inhering term is the one whose being is dependent.
+The bearer is the one in which, of which, or through which the dependent determination exists.
+
+So:
+
+    D inheres in S
+
+means:
+
+    D exists as a determination of S.
+
+But:
+
+    S inheres in D
+
+would mean:
+
+    S exists as a determination of D.
+
+That reverses the ontological order.
+
+For example:
+
+    redness exists as a determination of the apple
+
+is intelligible.
+
+But:
+
+    the apple exists as a determination of redness
+
+is not the same kind of claim. It would treat the apple as if it were an accident, mode, or property of redness.
+
+That is why the reversal is not valid.
+
+VII. Inhesion as asymmetric dependence
+
+The core of inhesion is dependence.
+
+The inhering determination depends on the bearer.
+
+Examples:
+
+    this wrinkle depends on this cloth
+    this curve depends on this line or surface
+    this smile depends on this face or expressive body
+    this heat depends on this heated body
+    this velocity depends on this moving object
+    this state depends on this system
+    this habit depends on this person
+    this attribute depends on this object
+
+In each case, the first term does not stand alone in the same way as the bearer.
+
+The wrinkle is a wrinkle of the cloth.
+The smile is a smile of the face.
+The velocity is the velocity of the moving body.
+The habit is the habit of the person.
+The attribute is the attribute of the object.
+
+This “of” marks dependent belonging.
+
+So the asymmetry is:
+
+    dependent belongs to bearer
+
+not:
+
+    bearer belongs to dependent in the same way
+
+VIII. Relation to predication
+
+Inhesion also grounds predication.
+
+If:
+
+    redness inheres in the apple
+
+then we can say:
+
+    the apple is red
+
+If:
+
+    fragility inheres in the glass
+
+then we can say:
+
+    the glass is fragile
+
+If:
+
+    heat inheres in the iron
+
+then we can say:
+
+    the iron is hot
+
+If:
+
+    courage inheres in the person
+
+then we can say:
+
+    the person is courageous
+
+The grammatical direction is usually:
+
+    subject → predicate
+
+But the ontological direction of inhesion is:
+
+    predicate-determination → subject-bearer
+
+So the two directions are converse perspectives on the same structure.
+
+Grammatical predication:
+
+    S is D
+
+Ontological inhesion:
+
+    D inheres in S
+
+Converse bearing:
+
+    S bears D
+
+Example:
+
+    The apple is red.
+    Redness inheres in the apple.
+    The apple bears redness.
+
+These are not three symmetrical relations. They are three different ways of articulating one ordered structure.
+
+IX. Relation to “having”
+
+The same applies to “having.”
+
+We may say:
+
+    the apple has redness
+    the glass has fragility
+    the person has courage
+    the object has mass
+    the system has instability
+
+But this “having” is not external possession.
+
+It is not like:
+
+    the person has a book
+    the house has a garden
+    the car has a passenger
+
+Inhesive having means:
+
+    the subject is qualified by a determination
+
+So:
+
+    S has D
+
+means:
+
+    D inheres in S
+
+But again, this is a converse expression, not symmetry.
+
+X. Comparison with genuinely symmetrical relations
+
+To see the contrast, compare inhesion with symmetrical relations.
+
+1. Siblinghood
+
+    Alice is a sibling of Bruno.
+    Bruno is a sibling of Alice.
+
+This is symmetrical.
+
+2. Equality
+
+    A is equal to B.
+    B is equal to A.
+
+This is symmetrical.
+
+3. Similarity
+
+    A is similar to B.
+    B is similar to A.
+
+This is usually symmetrical, at least in ordinary usage.
+
+4. Inhesion
+
+    Redness inheres in the apple.
+    The apple inheres in redness.
+
+This is not symmetrical.
+
+The difference is that siblinghood, equality, and similarity generally relate terms at the same level. Inhesion does not. It relates a dependent determination to its bearer.
+
+XI. Comparison with genuinely reciprocal relations
+
+Some relations are reciprocal because they generate paired roles.
+
+Examples:
+
+    teacher ↔ student
+    buyer ↔ seller
+    parent ↔ child
+    lender ↔ borrower
+    speaker ↔ hearer
+
+If A is a buyer from B, B is a seller to A.
+If A is a parent of B, B is a child of A.
+If A lends to B, B borrows from A.
+
+These are reciprocal because each side has a role that answers the other.
+
+Inhesion has something analogous but weaker:
+
+    inhering determination ↔ bearer
+
+If D inheres in S, S bears D.
+
+So there is a paired role-structure.
+
+But the relation is not reciprocal in the sense that the same predicate applies backward.
+
+The correct pair is:
+
+    inheres in ↔ bears
+
+not:
+
+    inheres in ↔ inheres in
+
+Therefore, inhesion is converse-correlative, not symmetrical-reciprocal.
+
+XII. Relation-theoretic classification
+
+Using standard relation properties:
+
+1. Reflexive?
+
+A relation R is reflexive when:
+
+    R(a, a)
+
+for every a.
+
+Inhesion is not reflexive.
+
+A thing does not normally inhere in itself.
+
+    Redness does not inhere in redness in the same sense.
+    The apple does not inhere in the apple.
+    Fragility does not inhere in fragility.
+
+So inhesion is not reflexive.
+
+2. Irreflexive?
+
+A relation R is irreflexive when:
+
+    not R(a, a)
+
+for every a.
+
+Inhesion is generally irreflexive under the standard interpretation.
+
+Nothing is its own inhering accident in the same respect.
+
+3. Symmetric?
+
+A relation R is symmetric when:
+
+    R(a, b) → R(b, a)
+
+Inhesion is not symmetric.
+
+4. Asymmetric?
+
+A relation R is asymmetric when:
+
+    R(a, b) → not R(b, a)
+
+Inhesion is asymmetric, provided the terms are being used in their proper categorial roles.
+
+If D inheres in S, S does not inhere in D.
+
+5. Antisymmetric?
+
+A relation R is antisymmetric when:
+
+    R(a, b) and R(b, a) → a = b
+
+Inhesion is better described as asymmetric than merely antisymmetric. Antisymmetry is weaker and is more relevant to order relations such as “less than or equal to.” Inhesion is not just a relation where mutuality collapses identity; mutuality is categorially excluded.
+
+6. Transitive?
+
+A relation R is transitive when:
+
+    R(a, b) and R(b, c) → R(a, c)
+
+Inhesion is not generally transitive.
+
+If a determination of a determination is possible — for example, the intensity of a color — it does not automatically follow that the intensity inheres in the original bearer in exactly the same way as the color does.
+
+Example:
+
+    intensity modifies redness
+    redness inheres in the apple
+
+It does not straightforwardly follow, without qualification, that:
+
+    intensity inheres in the apple
+
+in the same direct sense.
+
+The better analysis may be layered:
+
+    intensity inheres in this-redness
+    this-redness inheres in the apple
+    therefore the apple is red-with-a-certain-intensity
+
+But the relation is mediated, not simply transitive.
+
+XIII. The categorial ladder
+
+Inhesion presupposes a hierarchy:
+
+    bearer
+      └── determination
+            └── determination-of-determination
+
+Example:
+
+    apple
+      └── redness
+            └── intensity of redness
+
+or:
+
+    person
+      └── courage
+            └── firmness of courage
+
+or:
+
+    surface
+      └── curvature
+            └── degree of curvature
+
+This shows why inhesion is ordered. Lower-level determinations are nested in higher-level bearers or in other determinations, but the direction does not simply reverse.
+
+XIV. Examples across domains
+
+1. Physical quality
+
+    heat inheres in iron
+    iron bears heat
+
+Not:
+
+    iron inheres in heat
+
+2. Shape
+
+    roundness inheres in the ball
+    the ball bears roundness
+
+Not:
+
+    the ball inheres in roundness
+
+3. Color
+
+    redness inheres in the rose
+    the rose bears redness
+
+Not:
+
+    the rose inheres in redness
+
+4. Disposition
+
+    fragility inheres in glass
+    glass bears fragility
+
+Not:
+
+    glass inheres in fragility
+
+5. Psychological habit
+
+    patience inheres in the person
+    the person bears patience
+
+Not:
+
+    the person inheres in patience
+
+6. Social status
+
+    authority inheres in the office-holder, under an institutional order
+    the office-holder bears authority
+
+Not:
+
+    the office-holder inheres in authority
+
+7. Computational analogy
+
+    an attribute inheres in an object
+    the object bears the attribute
+
+Not:
+
+    the object inheres in the attribute
+
+8. Linguistic analogy
+
+    tense inheres in a verb form
+    the verb form bears tense
+
+Not:
+
+    the verb form inheres in tense
+
+XV. Important qualification
+
+Inhesion should not be confused with mutual constitution.
+
+Some philosophical systems may challenge the classical substance/accident model. For example, bundle theories may say that an object is nothing over and above a bundle of properties. Trope theories may treat property-instances as particularized dependent entities. Process metaphysics may treat stable bearers as derivative from processes.
+
+But even in those alternative frameworks, the relation corresponding to inhesion remains non-symmetric if it preserves the distinction between:
+
+    that which qualifies
+
+and:
+
+    that which is qualified
+
+As long as the relation means:
+
+    D is a determination of S
+
+then it is directional.
+
+If a theory abolishes the distinction between bearer and determination altogether, then it is no longer using “inhesion” in the classical sense.
+
+XVI. Final distilled answer
+
+Inhesion is not commutative, reciprocal, or symmetrical in the strict sense.
+
+It is:
+
+    asymmetric
+    directional
+    non-commutative in the loose role-swapping sense
+    non-symmetric in the strict relational sense
+    non-reciprocal under the same predicate
+    converse-correlative through the paired relation “bears”
+    grounded in ontological dependence
+    structured by the distinction between dependent determination and bearer
+
+The final formula is:
+
+    D inheres in S
+    ⇔
+    S bears D
+
+but:
+
+    D inheres in S
+    ⇏
+    S inheres in D
+
+Therefore:
+
+    Inhesion(D, S) is not symmetrical.
+    Inhesion(D, S) is not reversible.
+    Inhesion(D, S) is not reciprocal as Inhesion(S, D).
+    Inhesion(D, S) only has a converse: Bearing(S, D).
+
+Most compactly:
+
+    Inhesion is not a relation of mutuality.
+    It is a relation of dependent belonging.
+
+Or:
+
+    The property inheres in the bearer;
+    the bearer bears the property;
+    neither term can replace the other without destroying the relation.

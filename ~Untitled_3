@@ -1,0 +1,45 @@
+Assess the coherence, cohesiveness and correctness of the following JSON representations of the distinction between Nature, Hypostasis, and Subsistence in the Trinity:
+
+```first_representation
+[
+  "",
+  [
+    "DIVINE NATURE",
+    [
+      "GOD",
+      "father",
+      "son",
+      "holy spirit"
+    ]
+  ]
+]
+```
+
+and
+
+~~~second_representation
+[
+  "",
+  [
+    "father",
+    [
+      "DIVINE NATURE",
+      "GOD"
+    ]
+  ],
+  [
+    "son",
+    [
+      "DIVINE NATURE",
+      "GOD"
+    ]
+  ],
+  [
+    "holy spirit",
+    [
+      "DIVINE NATURE",
+      "GOD"
+    ]
+  ]
+]
+~~~

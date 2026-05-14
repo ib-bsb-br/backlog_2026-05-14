@@ -1,0 +1,797 @@
+Inhesão deve ser entendida como um termo metafísico e ontológico raro, não como uma simples palavra de dicionário. Seu núcleo não é a ideia física de algo estar “dentro” de outra coisa, como uma moeda dentro de uma caixa, mas a ideia de um ser-em dependente: uma determinação existe em, de, ou por meio de um sujeito sem existir como coisa independente em seu próprio direito.
+
+Em formulação compacta:
+
+```text
+Inhesão é o “ser-em” ontológico de uma determinação dependente em um portador.
+```
+
+Ou, em forma estrutural:
+
+```text
+portador + determinação dependente + relação de dependência ontológica
+```
+
+O portador é aquilo em que algo existe. A determinação inhesiva é aquilo que existe somente como pertencente a esse portador. A relação de Inhesão é o modo de pertencimento pelo qual a determinação não é autônoma, não flutua isoladamente e não existe como substância independente.
+
+Exemplos básicos:
+
+ a cor inere em uma superfície;
+ a forma inere em um corpo;
+ o hábito inere em uma pessoa;
+ a disposição inere em algo capaz de agir de certa maneira;
+ o acidente, na metafísica clássica, inere em uma substância.
+
+A forma mínima é:
+
+```text
+X inere em Y quando X é uma determinação de Y, existe apenas como pertencente a Y e faz Y ser de certo modo.
+```
+
+A estrutura primitiva de Inhesão contém os seguintes elementos:
+
+ sujeito, portador ou substrato: aquilo em que a determinação existe;
+ determinação, acidente, propriedade ou qualidade: aquilo que inere;
+ dependência: o item que inere não existe do mesmo modo independentemente;
+ não identidade: o item que inere não é simplesmente idêntico ao portador;
+ não separabilidade: o item que inere não é destacável como objeto independente;
+ predicabilidade: o item que inere pode ser dito do portador, como em “a maçã é vermelha”;
+ modificação: o portador passa a ser de certo modo;
+ assimetria: a qualidade depende do portador mais radicalmente do que o portador depende daquela qualidade exata.
+
+Por isso, Inhesão é uma estrutura intermediária entre identidade e separação. A vermelhidão da maçã é distinguível da maçã, porque a maçã pode tornar-se verde, marrom ou podre; mas essa vermelhidão concreta não existe como objeto independente vagando fora de qualquer portador. Assim, Inhesão significa:
+
+```text
+não idêntico, mas também não independentemente separado
+```
+
+A primeira purificação conceitual consiste em distinguir Inhesão de relações vizinhas.
+
+Inhesão não é inclusão espacial. Uma moeda está em uma caixa, mas a moeda não inere na caixa. Inclusão espacial localiza um objeto dentro de outro; Inhesão descreve uma determinação dependente pertencendo a um portador. A vermelhidão não está na maçã como uma moeda está em uma caixa; ela é o modo pelo qual a maçã é colorida.
+
+Inhesão não é adesão. A tinta pode aderir a uma parede, mas a planura da parede inere na parede. Adesão é colagem física; Inhesão é pertencimento ontológico. A adesão pode ocorrer entre duas coisas relativamente independentes; Inhesão envolve algo cujo ser depende de um portador.
+
+Inhesão não é posse. Uma pessoa possui um livro, mas sua altura inere nela. Posse pode ser externa, legal, prática ou relacional; Inhesão é interna à constituição ou determinação do sujeito.
+
+Inhesão não é composição. Uma mesa é composta de madeira, parafusos, pernas e tampo, mas sua retangularidade inere nela. Composição diz respeito a partes que formam um todo; Inhesão diz respeito a determinações que modificam um portador. A perna é parte da mesa; a retangularidade não é parte no mesmo sentido, mas um modo pelo qual a mesa é formada.
+
+Inhesão não é identidade. A maçã não é idêntica à sua vermelhidão, e a vermelhidão não é idêntica à maçã. Se fossem idênticas, a maçã não poderia perder a vermelhidão sem deixar de ser a maçã. Portanto, Inhesão requer distinção sem separabilidade independente.
+
+A estrutura pode ser expressa por invariantes.
+
+Primeiro, deve haver um portador. Não há Inhesão sem um sujeito de Inhesão. A vermelhidão requer uma maçã ou alguma superfície colorida; a redondeza requer uma bola ou algum corpo; a temperatura requer um corpo ou sistema material; a coragem requer uma pessoa; a fragilidade requer vidro ou algum objeto frágil; a carga requer uma partícula ou entidade carregada; a curvatura requer uma superfície, linha ou extensão.
+
+Segundo, deve haver uma determinação dependente. O item que inere não é uma entidade plenamente independente. Ele pode ser uma qualidade, propriedade, acidente, modo, estado, disposição, relação, forma, traço, condição ou modificação. Ele não é “nada”: pode ser predicado, observado, medido, alterado ou raciocinado. Mas não se sustenta como substância, objeto ou indivíduo independente.
+
+Terceiro, Inhesão é assimétrica. Se a vermelhidão inere na maçã, a maçã não inere na vermelhidão. A direção é:
+
+```text
+determinação → portador
+```
+
+A qualidade depende do portador como aquilo em que existe. O portador é determinado pela qualidade, mas não é hospedado ontologicamente por ela.
+
+Quarto, Inhesão fundamenta a predicação, mas não é mera predicação gramatical. Quando se diz “a maçã é vermelha”, a frase predica a vermelhidão da maçã. Contudo, a Inhesão é a estrutura ontológica que torna essa predicação inteligível. A forma gramatical é:
+
+```text
+Sujeito é Predicado
+```
+
+A forma ontológica é:
+
+```text
+Determinação inere em portador
+```
+
+Assim:
+
+```text
+A maçã é vermelha.
+Vermelhidão inere na maçã.
+A maçã porta vermelhidão.
+```
+
+Essas frases não expressam relações simétricas, mas perspectivas diferentes sobre uma estrutura ordenada.
+
+Quinto, Inhesão permite distinção sem separação. Ela não reduz a qualidade ao portador, nem a transforma em coisa autônoma. A estrutura fica entre dois extremos:
+
+ identidade: sem distinção real entre portador e determinação;
+ separação: duas coisas independentes;
+ Inhesão: distinção sem existência independente da determinação.
+
+Sexto, Inhesão é um princípio de modificação. Aquilo que inere em um sujeito faz o sujeito ser de certo modo. A maçã não é apenas maçã; ela é vermelha, redonda, doce, madura, pesada, fria, machucada ou fragrante. Cada determinação contribui para sua atualidade determinada. Inhesão é, portanto, a lógica do ser-qualificado.
+
+Sétimo, Inhesão ajuda a compreender a mudança. Um sujeito pode adquirir, perder ou modificar determinações. Uma parede torna-se branca; uma pessoa torna-se cansada; a água torna-se morna; o metal torna-se magnetizado; um documento torna-se corrompido; um sistema torna-se instável. Nesses casos, o portador persiste enquanto uma determinação passa a inerer, deixa de inerer ou muda de grau.
+
+Sem algo como Inhesão, a mudança tende a colapsar em dois extremos:
+
+ identidade total: nada realmente muda;
+ substituição total: toda mudança cria uma coisa inteiramente nova.
+
+Inhesão oferece um meio-termo:
+
+```text
+o mesmo sujeito pode tornar-se outro quanto ao modo de ser, adquirindo, perdendo ou alterando determinações.
+```
+
+No quadro metafísico clássico, Inhesão aparece sobretudo na distinção entre substância e acidente:
+
+```text
+A substância existe em si.
+O acidente existe em outro.
+```
+
+A substância é o portador independente; o acidente é a determinação dependente. Inhesão nomeia o modo pelo qual o acidente existe na substância. A vermelhidão existe na maçã; a altura existe no ser humano; o peso existe na pedra; o calor existe no fogo ou no corpo aquecido; a temperatura existe na água; a velocidade existe no cavalo; o pensamento existe na mente; o hábito existe na pessoa.
+
+A fórmula formal é:
+
+```text
+Uma determinação D inere em um sujeito S quando D existe como modo dependente de S e modifica S sem ser idêntica a S.
+```
+
+Isso envolve quatro momentos necessários:
+
+ subjetidade: há algo que porta;
+ determinação: há algo portado;
+ dependência: o portado existe por meio do portador;
+ modificação: o portador é feito ser de algum modo determinado.
+
+Condensadamente:
+
+```text
+Inhesão = modificação dependente de um portador.
+```
+
+A hierarquia ontológica pressuposta é:
+
+```text
+Ser
+└── Ser independente
+    └── Substância / portador / sujeito
+        └── Ser dependente
+            └── Acidente / qualidade / modo / estado / propriedade
+```
+
+O item que inere não é inferior porque seja irreal; ele é derivado porque seu modo de existência depende de outro. Uma cor, forma, disposição ou estado pode ser real, mas é real como-de ou em algo.
+
+O “em” de Inhesão precisa ser purificado, pois há muitos sentidos de “em”:
+
+ espacial: água em um copo;
+ pertencimento grupal: jogador em um time;
+ lógico: conclusão em um argumento;
+ conceitual: animalidade em humanidade;
+ causal: potência em um motor;
+ ontológico: vermelhidão em uma maçã.
+
+Inhesão diz respeito ao último sentido: ser-em ontológico. Esse “em” significa “existir como determinação de um sujeito”, não “estar localizado dentro de um recipiente”.
+
+Na predicação ordinária, aparecem frases como:
+
+ a rosa é vermelha;
+ o metal é quente;
+ a pessoa é sábia;
+ a máquina está quebrada;
+ o argumento é válido.
+
+Cada frase tem sujeito e predicado. Mas Inhesão pergunta o que a realidade deve ser para que a predicação seja verdadeira. A resposta é: o predicado deve corresponder a alguma determinação pertencente ao sujeito. Quando se diz “o metal é quente”, não se diz que “quente” é um objeto separado ao lado do metal, nem que o metal é idêntico ao calor; diz-se que calor, temperatura ou estado térmico pertence ao metal.
+
+Por isso, Inhesão é o correlato ontológico de muitas predicações. A predicação significativa exige distinção: se sujeito e predicado fossem sempre idênticos, “a maçã é a maçã” nada acrescentaria. Predicados como vermelha, madura, machucada e doce diferenciam o sujeito. Inhesão permite que o sujeito seja determinado por algo distinto dele, mas não externamente anexado a ele como objeto independente.
+
+Inhesão é também uma espécie de dependência, mas nem toda dependência é Inhesão. Uma criança pode depender dos pais; uma planta pode depender da luz solar; um website pode depender de um servidor; uma conclusão pode depender de premissas. Essas são dependências, mas não necessariamente Inhesãos. Inhesão é especificamente a dependência de uma determinação em relação ao sujeito do qual ela é determinação.
+
+Exemplos de dependência inhesiva:
+
+ uma ruga depende do tecido;
+ um som depende de um corpo sonoro ou de um meio;
+ um pensamento depende de um sujeito pensante;
+ um sorriso depende de um rosto ou corpo expressivo;
+ uma curva depende de uma linha ou superfície;
+ uma carga depende de uma entidade carregada.
+
+A dependência inhesiva significa:
+
+```text
+o item dependente tem seu ser como traço, estado, modo ou modificação de outro.
+```
+
+Inhesão também deve ser distinguida de termos próximos.
+
+Inherence é o termo filosófico mais comum; Inhesão é mais raro e soa mais técnico, escolástico ou etimologicamente literal. Ambos são próximos, mas “Inhesão” enfatiza mais o ato, condição ou relação de estar ontologicamente “aderido-em” ou “ser-em”, sem significar adesão física.
+
+Inherentness costuma sugerir que algo pertence naturalmente, essencialmente ou intrinsecamente a algo. Já Inhesão é mais ampla: algo pode inerer de modo acidental, temporário ou contingente. O calor que inere no ferro enquanto ele está quente não é necessariamente essencial ao ferro.
+
+Imanência significa permanecer dentro ou operar a partir de dentro, em contraste com transcendência. Inhesão é mais precisa: diz respeito à dependência de uma determinação em relação ao seu portador.
+
+Instanciação é a relação, em metafísica analítica, pela qual um particular instancia uma propriedade ou universal. “Esta maçã instancia vermelhidão” olha do objeto para a propriedade. “A vermelhidão inere nesta maçã” olha da propriedade para o portador. As direções diferem:
+
+```text
+instanciação: objeto → propriedade
+Inhesão: propriedade → objeto
+```
+
+Exemplificação é classificatória: a maçã exemplifica a vermelhidão. Inhesão pergunta como a vermelhidão está ontologicamente presente na maçã.
+
+Participação sugere que um particular participa de uma forma, natureza ou universal. Inhesão é menos vertical e mais local: a beleza inere neste rosto, pintura, gesto ou arranjo.
+
+Constituição diz respeito àquilo de que algo é feito ou por que é materialmente organizado. Uma estátua é constituída de bronze; sua lisura inere nela qualitativamente.
+
+Relação é mais geral. Relações podem inerer em sentido amplo, mas Inhesão não é qualquer relação: é a relação de uma determinação dependente com seu portador.
+
+A dimensão modal de Inhesão envolve o que pode ou não existir separadamente. Algumas determinações têm dependência forte: um sorriso sem face ou sistema expressivo, uma ruga sem superfície, uma cor sem algo colorido, uma velocidade sem algo em movimento, uma temperatura sem algo que tenha estado térmico. Essas não são coisas autônomas.
+
+Outras podem ser consideradas abstratamente fora de seus portadores, mas não existem concretamente separadas deles. Pode-se pensar “vermelhidão” em abstrato, mas esta vermelhidão concreta da maçã aqui e agora existe apenas como pertencente a esta maçã ou superfície. A mente abstrai; a realidade concreta hospeda.
+
+Daí a fórmula:
+
+```text
+a abstração separa no pensamento aquilo que a Inhesão une no ser.
+```
+
+Fenomenologicamente, Inhesão aparece como a inseparabilidade entre objeto e modo de aparição. Não encontramos primeiro um objeto nu para depois colar propriedades nele; encontramos coisas já qualificadas: maçã vermelha, água fria, pedra pesada, faca afiada, rosto cansado, rua barulhenta, máquina quebrada, melodia agradável. O objeto aparece por meio de suas determinações. A maçã não é dada como substrato nu acrescido posteriormente de qualidades; ela aparece como colorida, formada, texturizada, fragrante, comestível, situada, iluminada e significativa.
+
+Assim, Inhesão aparece como:
+
+```text
+o modo pelo qual uma coisa se mostra por já estar determinada.
+```
+
+A forma lógica básica é:
+
+```text
+D inere em S
+```
+
+onde:
+
+ D = determinação dependente;
+ S = sujeito ou portador.
+
+Isso implica:
+
+```text
+D não é idêntico a S.
+D não é independente de S.
+D modifica ou determina S.
+D pode fundamentar uma predicação verdadeira de S.
+```
+
+Logo:
+
+```text
+D inere em S
+→ S é qualificado por D
+→ “S é D” pode ser predicativamente verdadeiro
+```
+
+Exemplo:
+
+```text
+Vermelhidão inere na maçã
+→ a maçã é vermelha
+```
+
+A gramática pode expressar Inhesão de várias maneiras:
+
+ “a maçã é vermelha” → a vermelhidão inere na maçã;
+ “o vidro é frágil” → a fragilidade inere no vidro;
+ “a pessoa está cansada” → o cansaço inere na pessoa;
+ “o metal está quente” → o calor inere no metal;
+ “a superfície é curva” → a curvatura inere na superfície;
+ “o sistema é instável” → a instabilidade inere no sistema.
+
+Contudo, a gramática também pode obscurecer a estrutura. “A maçã tem vermelhidão” soa como posse, como se a vermelhidão fosse objeto possuído. Inhesão é mais sutil: a maçã não possui a vermelhidão como possui um rótulo; ela é vermelha por ser qualificada pela vermelhidão.
+
+Há diferentes graus e tipos de Inhesão.
+
+Na Inhesão essencial, certas determinações pertencem àquilo que a coisa é. A triangularidade pertence ao triângulo; removê-la destrói o triângulo enquanto triângulo. A racionalidade em um animal racional, sob definições clássicas, e a extensão em um corpo físico, dependendo do sistema metafísico, são exemplos de determinações tratadas como essenciais.
+
+Na Inhesão acidental, algumas determinações vêm e vão: estar sentado, estar quente, estar pálido, estar cansado, estar pintado de azul, estar aqui e não ali. O sujeito permanece enquanto o acidente muda.
+
+Na Inhesão disposicional, uma disposição inere como capacidade ou tendência: fragilidade no vidro, solubilidade no sal, inflamabilidade no papel, irritabilidade em um organismo vivo, condutividade no cobre. A disposição pode existir mesmo sem manifestação atual: o vidro pode ser frágil sem quebrar, e o papel pode ser inflamável sem queimar.
+
+Na Inhesão relacional, certas determinações envolvem mais de um termo: ser mais alto que outro, ser possuído por alguém, estar ao norte de algo, ser semelhante a algo, ser pai ou mãe de alguém. Essas determinações podem qualificar um sujeito, embora sua compreensão dependa de mais de um termo.
+
+Na Inhesão moral ou psicológica, hábitos, virtudes, vícios, habilidades, memórias e tendências podem ser descritos como inerindo em uma pessoa: coragem, paciência, ressentimento, competência linguística, habilidade musical, conhecimento matemático, trauma, atenção e fadiga. Aqui Inhesão não significa presença espacial, mas constituição pessoal por disposições estáveis ou instáveis.
+
+A pergunta metafísica central que Inhesão responde é:
+
+```text
+Como algo pode ser real sem ser uma coisa independente?
+```
+
+Uma cor é real; uma forma é real; um hábito é real; uma temperatura é real; uma ferida é real; uma habilidade é real; uma relação é real. Mas tais realidades não são substâncias independentes. Elas existem como determinações de algo. Inhesão dá lugar ontológico às realidades dependentes.
+
+Com isso, ela evita duas reduções opostas.
+
+A primeira redução afirma: somente objetos são reais; propriedades são apenas nomes. Isso destrói a realidade do ser determinado. A maçã seria real, mas sua vermelhidão, doçura, maturidade e fragilidade seriam sombras verbais. Inhesão resiste a essa redução dizendo:
+
+```text
+determinações dependentes são reais enquanto dependentes.
+```
+
+A segunda redução reifica propriedades como se fossem coisas independentes: vermelhidão, redondeza, doçura, dureza, movimento, fragilidade, coragem, fadiga, todas soltas como entidades autônomas. Inhesão também resiste a isso:
+
+```text
+as determinações não são nada, mas também não são substâncias independentes.
+```
+
+Elas são reais-em-outro.
+
+A dialética central é, portanto, entre dependência e realidade. Se algo é dependente, pode-se pensar que é irreal; se algo é real, pode-se pensar que é independente. Inhesão desfaz essa falsa oposição:
+
+```text
+algo pode ser real precisamente como dependente.
+```
+
+A ruga é real como ruga do tecido. O sorriso é real como sorriso do rosto. A vermelhidão é real como vermelhidão da maçã. A coragem é real como coragem da pessoa. A instabilidade é real como instabilidade do sistema.
+
+A verdade estrutural é:
+
+```text
+ser dependente ainda é ser.
+```
+
+Inhesão também se relaciona com sujeito e abstração. O portador de Inhesão não é necessariamente o sujeito gramatical, embora a gramática frequentemente espelhe a ontologia. Em “a pedra é pesada”, “pedra” é sujeito gramatical e portador ontológico; “pesada” é predicado, e o peso é determinação inhesiva. Mas em “a vermelhidão é intensa”, “vermelhidão” é sujeito gramatical, embora metafisicamente possa designar uma propriedade abstrata ou uma instância particular de vermelhidão inerindo em alguma superfície. A gramática aponta para a Inhesão, mas não a determina inteiramente.
+
+A individuação das determinações depende da teoria metafísica adotada. O realismo universal pode dizer que duas maçãs instanciam a mesma universal vermelhidão. A teoria dos tropos pode dizer que cada maçã possui sua própria vermelhidão particularizada. O nominalismo pode reduzir a vermelhidão a agrupamentos por semelhança, linguagem ou classificação. A teoria do feixe pode desafiar a Inhesão clássica ao tratar o objeto como feixe de propriedades em vez de substrato portador. A teoria do substrato preserva mais diretamente a forma clássica: há um portador subjacente no qual propriedades inererem.
+
+Em diferentes sistemas ontológicos, a estrutura reaparece de modos diversos:
+
+ na ontologia aristotélico-escolástica, acidentes existem em substâncias, e Inhesão é central;
+ na ontologia cartesiana, substâncias têm atributos e modos, como extensão no corpo e pensamento na mente;
+ em uma leitura spinozista, modos existem na substância e são concebidos por meio dela;
+ na metafísica analítica, a mesma região é tratada por termos como instanciação, exemplificação, portador de propriedades, tropos, universais, substratos, feixes, dependência e fundamentação;
+ na fenomenologia, a atenção desloca-se para o modo como a coisa aparece já qualificada.
+
+A estrutura pode ser exemplificada em diversos domínios.
+
+No domínio físico:
+
+ massa em um corpo;
+ carga em uma partícula;
+ temperatura em um sistema material;
+ velocidade em um objeto em movimento;
+ elasticidade em um material;
+ condutividade em um metal;
+ magnetização no ferro;
+ pressão em um sistema fluido.
+
+No domínio biológico:
+
+ metabolismo em um organismo;
+ irritabilidade em tecido vivo;
+ padrão de crescimento em um organismo;
+ expressão genética em uma célula;
+ estado de doença em um corpo;
+ adaptação em uma população;
+ instinto em um animal;
+ fadiga em um organismo.
+
+No domínio psicológico:
+
+ memória em uma mente ou pessoa;
+ crença em um conhecedor;
+ desejo em um sujeito desejante;
+ hábito em um agente;
+ atenção em um sujeito consciente;
+ ansiedade em uma pessoa;
+ habilidade em um praticante;
+ intenção em um agente.
+
+No domínio social:
+
+ autoridade em um ocupante de cargo;
+ obrigação em uma pessoa ou instituição;
+ reputação em uma pessoa ou grupo;
+ legitimidade em uma instituição;
+ status em um sujeito social;
+ papel em um participante;
+ pertencimento em uma pessoa;
+ poder normativo em um agente legal.
+
+A Inhesão social é frequentemente frágil, pois a determinação pode depender não apenas do portador, mas também de reconhecimento, instituições e regras.
+
+No domínio linguístico:
+
+ significado em um signo ou expressão;
+ tempo verbal em uma forma verbal;
+ gênero em um sistema nominal ou adjetival;
+ caso em um sintagma nominal;
+ força em um enunciado;
+ ambiguidade em uma expressão;
+ registro em um estilo de fala;
+ sotaque em uma pronúncia.
+
+O significado “inere” nas palavras apenas de modo mediado: por convenção, uso, contexto e interpretação.
+
+No domínio computacional:
+
+ estado em um objeto, processo ou sistema;
+ tipo em um valor ou expressão;
+ permissão em um usuário ou recurso;
+ flag em uma estrutura de dados;
+ atributo em um objeto ou entidade;
+ metadado em um arquivo ou recurso;
+ restrição em um esquema;
+ invariante em um sistema.
+
+Em software, Inhesão aparece analogicamente como porte de atributos, dependência de estado e estrutura objeto-propriedade. Um arquivo tem permissões; um objeto tem campos; um processo tem estado; um tipo tem restrições; uma linha de banco de dados tem atributos. Essas não são Inhesãos físicas, mas analogias estruturais.
+
+A linguagem comum também usa preposições que podem sugerir Inhesão.
+
+O “ter” pode indicar posse externa ou pertencimento inhesivo. “A pessoa tem um livro” é posse externa; “a pessoa tem coragem” é pertencimento inhesivo. Ter uma qualidade significa que essa qualidade inere no sujeito.
+
+O “de” frequentemente marca dependência inhesiva: vermelhidão da maçã, calor do metal, virtude da pessoa, curvatura da superfície, instabilidade do sistema, validade do argumento. Mas “de” também pode indicar origem, posse, matéria, autoria, tema ou parte-todo. Só é inhesivo quando significa que a determinação pertence ao sujeito como seu modo de ser.
+
+O “com” pode expressar acompanhamento ou qualificação. “Um homem com coragem”, “uma superfície com curvatura”, “um sistema com instabilidade”, “um arquivo com permissões” podem indicar determinação interna ou dependente. Mas “um homem com uma mala” descreve acompanhamento externo; a mala não inere no homem.
+
+A forma profunda de Inhesão é:
+
+```text
+uma coisa não é apenas aquilo-que-é;
+ela é também como-é.
+
+O como-é inere no aquilo-que-é.
+```
+
+A substância dá o “que”. A determinação inhesiva dá o “como”. Portanto:
+
+ substância ou portador responde: o que há?
+ determinação inhesiva responde: como é?
+ essência responde: o que deve ser para ser esse tipo de coisa?
+ acidente responde: como é contingentemente?
+ estado responde: como é agora?
+ disposição responde: como pode agir ou ser afetado?
+
+Inhesão é o vínculo entre o que é e como é.
+
+Quanto à pergunta específica sobre se Inhesão é uma relação comutativa, recíproca ou simétrica, a resposta é negativa, com uma qualificação terminológica importante.
+
+Tecnicamente, comutatividade é sobretudo propriedade de operações binárias, não de relações. Uma operação é comutativa quando:
+
+```text
+a ∘ b = b ∘ a
+```
+
+Adição é comutativa:
+
+```text
+a + b = b + a
+```
+
+Subtração não é comutativa:
+
+```text
+a - b ≠ b - a
+```
+
+Para relações, o termo técnico mais adequado é simetria. Uma relação R é simétrica quando:
+
+```text
+R(a, b) → R(b, a)
+```
+
+Se “comutativa” for usada analogicamente para significar “os termos podem ser trocados sem alterar a verdade ou a estrutura”, então Inhesão não é comutativa. A ordem é essencial:
+
+```text
+determinação dependente → portador
+```
+
+não:
+
+```text
+portador → determinação dependente
+```
+
+A forma básica é:
+
+```text
+D inere em S
+```
+
+onde:
+
+ D = determinação dependente: propriedade, qualidade, acidente, modo, estado, disposição ou traço;
+ S = portador: sujeito, substância, substrato, coisa qualificada ou entidade determinada.
+
+Exemplo:
+
+```text
+vermelhidão inere na maçã
+```
+
+Isso não implica:
+
+```text
+a maçã inere na vermelhidão
+```
+
+A inversão não é apenas falsa; no quadro clássico de substância e acidente, ela é um erro categorial. A vermelhidão é a determinação dependente; a maçã é o portador. Seus papéis não são intercambiáveis.
+
+O converso correto não é:
+
+```text
+S inere em D
+```
+
+mas:
+
+```text
+S porta D
+S tem D
+S é qualificado por D
+S é determinado por D
+```
+
+Assim, o par correto é:
+
+```text
+vermelhidão inere na maçã
+a maçã porta vermelhidão
+```
+
+não:
+
+```text
+vermelhidão inere na maçã
+a maçã inere na vermelhidão
+```
+
+A classificação lógica é:
+
+| Propriedade                                         |          Inhesão possui? | Motivo                                                  |
+| --------------------------------------------------- | ------------------------: | ------------------------------------------------------- |
+| Comutativa, em sentido técnico de operação          | Não se aplica diretamente | Comutatividade é primariamente propriedade de operações |
+| Comutativa, em sentido analógico de permutabilidade |                       Não | Os termos não podem ser trocados                        |
+| Simétrica                                           |                       Não | Se D inere em S, S não inere em D                       |
+| Recíproca no mesmo predicado                        |                       Não | O reverso não é “inere em”, mas “porta”                 |
+| Direcional                                          |                       Sim | Vai da determinação ao portador                         |
+| Assimétrica                                         |                       Sim | A relação não se reverte preservando sentido            |
+| Dependencial                                        |                       Sim | D depende de S para seu ser concreto                    |
+| Qualificadora                                       |                       Sim | S é feito ser de certo modo por D                       |
+| Converso-correlativa                                |                       Sim | “D inere em S” corresponde a “S porta D”                |
+
+A fórmula compacta é:
+
+```text
+InereEm(D, S) = verdadeiro
+Porta(S, D) = verdadeiro
+InereEm(S, D) = falso ou categorialmente impróprio
+```
+
+Portanto:
+
+```text
+InereEm(D, S) ⇔ Porta(S, D)
+```
+
+mas não:
+
+```text
+InereEm(D, S) ⇔ InereEm(S, D)
+```
+
+A reciprocidade precisa ser dividida em sentidos.
+
+No primeiro sentido, reciprocidade de mesmo predicado significaria:
+
+```text
+se D inere em S,
+então S inere em D.
+```
+
+Inhesão não é recíproca nesse sentido. A maçã não inere em sua vermelhidão; o vidro não inere em sua fragilidade; a pessoa não inere na coragem; a superfície não inere na curvatura.
+
+No segundo sentido, reciprocidade por relação conversa significa que a relação original possui uma expressão inversa correspondente. Nesse sentido fraco, Inhesão possui um converso:
+
+```text
+D inere em S
+S porta D
+```
+
+Esse par parece recíproco, mas não é simétrico. Ele é correlativo. Os dois lados não usam o mesmo predicado:
+
+```text
+lado inhesivo: D inere em S
+lado portador: S porta D
+```
+
+Logo, a relação é converso-correlativa, não simétrica.
+
+No terceiro sentido, reciprocidade como dependência mútua significaria que cada lado depende do outro do mesmo modo. Inhesão também não é recíproca nesse sentido forte. A determinação dependente depende do portador para sua existência concreta. A vermelhidão desta maçã depende desta maçã como portador, mas a maçã não depende usualmente dessa vermelhidão exata do mesmo modo; ela pode tornar-se verde, marrom, machucada ou podre e ainda permanecer a mesma maçã durante certo intervalo de mudança.
+
+A dependência não é igual:
+
+```text
+a determinação depende do portador para ser;
+o portador é qualificado pela determinação, mas não costuma depender existencialmente daquela determinação exata.
+```
+
+Formalmente, seja:
+
+```text
+I(x, y) = x inere em y
+B(y, x) = y porta x
+```
+
+Então:
+
+```text
+I(D, S) ⇔ B(S, D)
+```
+
+Isso significa:
+
+```text
+D inere em S se e somente se S porta D.
+```
+
+Mas:
+
+```text
+I(D, S) ⇏ I(S, D)
+```
+
+E, sob o significado padrão:
+
+```text
+I(D, S) → não I(S, D)
+```
+
+Logo:
+
+```text
+I ≠ I⁻¹
+```
+
+A relação “inere em” não é idêntica ao seu converso. Seu converso é “é portado por”, “é tido por”, “é possuído como determinação por”, “é predicável de” ou “qualifica”.
+
+A reversão falha porque Inhesão não é uma relação entre termos do mesmo nível ontológico. Ela não é como “irmão de”, “adjacente a”, “igual a” ou “semelhante a”, que frequentemente relacionam termos do mesmo tipo. Inhesão relaciona papéis diferentes:
+
+ acidente → substância;
+ qualidade → coisa qualificada;
+ modo → sujeito modal;
+ estado → portador de estado;
+ instância de propriedade → indivíduo portador de propriedade;
+ disposição → objeto disposto;
+ atributo → entidade atribuída.
+
+A determinação é aquilo cujo ser é dependente. O portador é aquilo em que, de que ou por meio de que a determinação dependente existe. Assim:
+
+```text
+D inere em S
+```
+
+significa:
+
+```text
+D existe como determinação de S.
+```
+
+Mas:
+
+```text
+S inere em D
+```
+
+significaria:
+
+```text
+S existe como determinação de D.
+```
+
+Isso inverte a ordem ontológica. “A vermelhidão existe como determinação da maçã” é inteligível. “A maçã existe como determinação da vermelhidão” trata a maçã como se fosse acidente, modo ou propriedade da vermelhidão. Por isso, a reversão não preserva a relação.
+
+Comparada com relações simétricas:
+
+ se Alice é irmã de Bruno, Bruno é irmão de Alice;
+ se A é igual a B, B é igual a A;
+ se A é semelhante a B, B é semelhante a A, ao menos no uso ordinário;
+ mas se a vermelhidão inere na maçã, a maçã não inere na vermelhidão.
+
+Comparada com relações recíprocas de papéis:
+
+ professor ↔ aluno;
+ comprador ↔ vendedor;
+ pai/mãe ↔ filho;
+ credor ↔ devedor;
+ falante ↔ ouvinte.
+
+Essas relações geram papéis correlativos. Inhesão possui algo análogo, mas mais fraco:
+
+```text
+determinação inhesiva ↔ portador
+```
+
+Se D inere em S, S porta D. Mas a relação não é recíproca no sentido de que o mesmo predicado se aplique de volta. O par correto é:
+
+```text
+inere em ↔ porta
+```
+
+não:
+
+```text
+inere em ↔ inere em
+```
+
+Usando propriedades relacionais padrão:
+
+ não é reflexiva: uma coisa não inere normalmente em si mesma;
+ é geralmente irreflexiva sob a interpretação padrão: nada é seu próprio acidente inhesivo no mesmo respeito;
+ não é simétrica: D inere em S não implica S inere em D;
+ é assimétrica quando os termos são usados em seus papéis categoriais próprios;
+ é melhor descrita como assimétrica do que apenas antissimétrica, pois a mutualidade é categorialmente excluída;
+ não é geralmente transitiva: se uma intensidade modifica uma cor e a cor inere na maçã, não se segue automaticamente que a intensidade inere na maçã no mesmo sentido direto; a estrutura pode ser mediada por níveis.
+
+A escada categorial pode ser representada assim:
+
+```text
+portador
+  └── determinação
+        └── determinação-da-determinação
+```
+
+Exemplos:
+
+```text
+maçã
+  └── vermelhidão
+        └── intensidade da vermelhidão
+```
+
+```text
+pessoa
+  └── coragem
+        └── firmeza da coragem
+```
+
+```text
+superfície
+  └── curvatura
+        └── grau de curvatura
+```
+
+Isso mostra que Inhesão é ordenada por níveis. Determinações inferiores podem estar aninhadas em portadores superiores ou em outras determinações, mas a direção não se reverte simplesmente.
+
+Algumas teorias filosóficas podem desafiar o modelo clássico de substância e acidente. Teorias do feixe podem dizer que o objeto nada é além de um conjunto de propriedades. Teorias dos tropos podem tratar instâncias de propriedades como entidades particularizadas dependentes. Metafísicas processuais podem tratar portadores estáveis como derivados de processos. Ainda assim, enquanto a relação correspondente preservar a diferença entre “aquilo que qualifica” e “aquilo que é qualificado”, ela permanecerá não simétrica. Se uma teoria abolir inteiramente a distinção entre portador e determinação, então já não estará usando “Inhesão” no sentido clássico.
+
+A fórmula final é:
+
+```text
+D inere em S
+⇔
+S porta D
+```
+
+mas:
+
+```text
+D inere em S
+⇏
+S inere em D
+```
+
+Portanto:
+
+```text
+Inhesão(D, S) não é simétrica.
+Inhesão(D, S) não é reversível.
+Inhesão(D, S) não é recíproca como Inhesão(S, D).
+Inhesão(D, S) possui apenas um converso: Portar(S, D).
+```
+
+Em forma maximamente compacta:
+
+```text
+Inhesão não é uma relação de mutualidade.
+É uma relação de pertencimento dependente.
+```
+
+Ou ainda:
+
+```text
+A propriedade inere no portador;
+o portador porta a propriedade;
+nenhum dos termos pode substituir o outro sem destruir a relação.
+```

@@ -1,0 +1,24 @@
+[
+  "",
+  [
+    "father",
+    [
+      "DIVINE NATURE",
+      "GOD"
+    ]
+  ],
+  [
+    "son",
+    [
+      "DIVINE NATURE",
+      "GOD"
+    ]
+  ],
+  [
+    "holy spirit",
+    [
+      "DIVINE NATURE",
+      "GOD"
+    ]
+  ]
+]

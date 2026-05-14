@@ -1,0 +1,12 @@
+[
+  "",
+  [
+    "BELIEVER",
+    [
+      "SOUL",
+      "BODY",
+      "SPIRIT"
+    ],
+    "HOLY SPIRIT"
+  ]
+]

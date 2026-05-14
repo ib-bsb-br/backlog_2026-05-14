@@ -1,0 +1,15 @@
+Given: "Dimension as `A single aspect of a given thing.`, `A measure of spatial extent in a particular direction.`, `A construct whereby objects or individuals can be distinguished.`, `The number of independent coordinates needed to specify uniquely the location of a point in a space; also, any of such independent coordinates.`, `One of the physical properties that are regarded as fundamental measures of a quantity
+The dimension of velocity is length divided by time.
+(computing) Any of the independent ranges of indices in a multidimensional array.
+(science fiction, fantasy) A universe or plane of existence.
+a machine that lets you travel to a parallel dimension.
+Verb
+(transitive) To mark, cut or shape something to specified dimensions.
+(transitive, programming) To specify the size of (an array or similar data structure); to allocate.
+
+
+
+
+
+
+

@@ -1,0 +1,650 @@
+<prompt>
+  <purpose>
+    You are a Senior Documentation Analyst and Technical Writer specializing in the standardization and sanitization of written records.
+ 
+    Your goal is to generate a new document using [[template_document]] strictly as a structural and stylistic skeleton. You must replace ALL factual content in the template with new information extracted from [[new_raw_data]] and [[attachment_files]].
+  </purpose>
+
+  <context>
+    <role>
+      Documentation Analyst / Technical Revisor.
+      <tone>Formal, coherent, impersonal, and extensive.</tone>
+      <domain>Content Management.</domain>
+    </role>
+
+    <input_handling>
+        Treat [[attachment_files]] as each and every textual data enclosed within the files attached to this `prompt message`.
+    </input_handling>
+
+    <constraints>
+      <constraint type="critical">TOTAL SANITIZATION: No identifier, name, date, location, serial number, license plate, status, or factual description from the [[template_document]] may remain in the result.</constraint>
+      <constraint type="critical">INFERENCE ALLOWED: Deduce, guess, or auto-complete information based on plausibility.</constraint>
+      <constraint type="critical">CONFLICT RESOLUTION: If [[new_raw_data]] and [[attachment_files]] provide conflicting information for the same field, you must record BOTH values citing the source (e.g., "Value X (Raw) / Value Y (Attachment)") preferably within the relevant section or in an "OBSERVATIONS" field.</constraint>
+      <constraint type="formatting">PRESERVE STRUCTURE: If possible, maintain the hierarchy, section order, list styles, and indentation of the template.</constraint>
+    </constraints>
+  </context>
+
+  <instructions>
+    <instruction step="1">STRUCTURAL MAPPING: Analyze [[template_document]] to identify fixed sections (headers, footers) and variable fields (labels, placeholders, lists, narratives).</instruction>
+
+    <instruction step="2">DATA EXTRACTION:
+      a. Scan [[new_raw_data]] for primary entities (Who, When, Where, What, IDs).
+      b. Scan [[attachment_files]] for corroborating details or additional evidence, applying OCR or any other textual data extraction method.</instruction>
+
+    <instruction step="3">CONFLICT CHECK: Compare data points between sources. If discrepancies exist (e.g., Raw Data says "Status: OK" but Attachment says "Status: Failed"), flag them for the output.</instruction>
+
+    <instruction step="4">DRAFTING & SUBSTITUTION:
+      a. Rebuild the document following the template's visual layout.
+      b. Replace header/identification data (Dates, Locations, Protocols, etc.).
+      c. Replace entity blocks (People, Vehicles, Assets, etc.).
+      d. Rewrite narratives/descriptions: Adapt the template's style (e.g., "The vehicle collided...") to the new facts, but use ONLY the new facts.</instruction>
+
+    <instruction step="5">LIST HANDLING:
+      a. If the template has a list (e.g., "Items Seized"), match the style.
+      b. If new data has MORE items, extend the list using the same format.
+      c. If new data has FEWER items, list only what exists. Do not keep "ghost" items from the template.</instruction>
+
+    <instruction step="6">GAP FILLING: For any mandatory template field missing in the new sources, infer it, if possible. Never leave blank or retain old data.</instruction>
+
+    <instruction step="7">DISCREPANCY REPORTING: If conflicts were found in Step 3, ensure they are visible. If the template has an "OBSERVATIONS" section, place them there. If not, append a new section titled "OBSERVATIONS" at the end.</instruction>
+
+    <instruction step="8">ANTI-RESIDUE SCAN: Perform a final pass to ensure no specific data (names, dates, codes, etc.) from the original [[template_document]] remains. The output must be 100% based on new data.</instruction>
+  </instructions>
+
+  <examples>
+    <example>
+      <scenario>Technical Inspection (Asset Replacement)</scenario>
+      <input_fragment_template><![CDATA[
+        EQUIPAMENTO: Gerador Diesel Modelo X500
+        SÉRIE: 998877-AB
+        STATUS: Operacional
+        LOCAL: Subsolo - Garagem
+      ]]></input_fragment_template>
+      <input_fragment_new_data><![CDATA[
+        Vistoria no Nobreak da Sala de TI. Marca APC, modelo Smart-UPS. Etiqueta ilegível (sem número de série). O equipamento está apitando (bateria fraca).
+      ]]></input_fragment_new_data>
+      <output_fragment><![CDATA[
+        EQUIPAMENTO: Nobreak APC Smart-UPS
+        SÉRIE: [Não definido]
+        STATUS: Falha (Bateria fraca/Apitando)
+        LOCAL: Sala de TI
+      ]]></output_fragment>
+    </example>
+
+    <example>
+      <scenario>Operational Report (List Extension & Conflict)</scenario>
+      <input_fragment_template><![CDATA[
+        ENVOLVIDOS:
+        1. NOME: João Silva (Testemunha)
+ 
+        OBSERVAÇÕES:
+        Nada a relatar.
+      ]]></input_fragment_template>
+      <input_fragment_new_data><![CDATA[
+        Ocorrencia com duas pessoas.
+        1: Maria Souza (Vítima).
+        2: Pedro Santos (Autor).
+        Obs: O autor alega legítima defesa.
+      ]]></input_fragment_new_data>
+      <input_fragment_attachment><![CDATA[
+        (Depoimento) Pedro Santos afirma que não estava no local.
+      ]]></input_fragment_attachment>
+      <output_fragment><![CDATA[
+        ENVOLVIDOS:
+        1. NOME: Maria Souza (Vítima)
+        2. NOME: Pedro Santos (Autor)
+
+        OBSERVAÇÕES:
+        O autor alega legítima defesa (Dados Brutos).
+        Divergência: Anexo indica que Pedro Santos nega presença no local.
+      ]]></output_fragment>
+    </example>
+  </examples>
+
+  <input_data>
+    <template_document><![CDATA[
+      ```template_document
+No dia 12 de abril de 2025, por volta das 22h30min, no km 12,8 da BR-080, em Brasília-DF, ocorreu um sinistro de trânsito do tipo colisão transversal, sem vítimas. Os veículos envolvidos foram: o automóvel CITROEN/PICASSO 16 GLX (V1) e o automóvel CHEVROLET/CELTA 1.0L LS (V2).
+
+Com base na análise dos vestígios materiais identificados, constatou-se que V1 trafegava na faixa da via principal, sentido Brazlandia-DF / Brasília-DF (decrescente), quando realizou manobra para a esquerda e sofreu impacto de V2, que seguia logo atrás no mesmo sentido. Não havia marcas evidentes de pneumáticos nem arrastamento no asfalto. A dinâmica do sinistro encontra-se representada no croqui. Conforme constatações em levantamento do local, concluiu-se que o fator principal foi a manobra de retorno irregular, ação essa realizada por V1.
+ 
+Observações: 1) O local do sinistro estava desfeito e foi devidamente sinalizado pela equipe PRF. Os veículos envolvidos já haviam sido retirados de seu pontos de imobilização. 2) A via estava com a sinalização vertical e horizontal em boas condições e com pavimento em bom estado de conservação. 3) As condições ambientais eram boas, noite, com iluminação artificial, e não houve precipitação pluviométrica no momento do sinistro. 4) A velocidade regulamentar no local é de 60 km/h. 5) Não havia vestígios perceptíveis no local, que pudessem indicar o envolvimento de outro veículo na dinâmica. 6) O condutor de V1 se recusou a realizar o teste de etilômetro, não apresentava sinais de alteração da capacidade psicomotora e não preencheu o Termo de Declaração do Envolvido (TDE). 7) V1 foi liberado no local do acidente para Marcus Vinicius de Sousa Lima, CPF 068.313.371-39, com autorização do condutor/responsável. 8) O condutor de V2 realizou teste de etilômetro, cujo resultado não acusou ingestão de álcool, e não preencheu o Termo de Declaração do Envolvido (TDE). 9) V2 foi liberado no local do acidente para o próprio condutor/proprietário. 10) A equipe PRF se retirou do local após a retirada dos veículos, detritos e liberação total da via.
+      ```/template_document
+    ]]></template_document>
+
+    <new_raw_data><![CDATA[
+      ```new_raw_data
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Cadastramento da Ocorrência
+26019925B01
+Protocolo
+26019925B01
+Latitude/longitude do local do sinistro
+-15,728696
+-48,193127
++
+-
+Leaflet
+Insira manualmente as coordenadas. Utilize vírgula como separador decimal
+
+Sinistro ocorrido fora da circunscrição da PRF?  apenas sinistros envolvendo viatura ou servidor PRF
+Município-UF
+BRASILIA-DF
+Rodovia
+080 - Principal
+Km
+12.9
+Sentido da via
+Decrescente
+Agentes
+CPF	Nome	Matrícula	Responsável
+02512375161	MÁRIO SEIXAS	3158094
+Sim
+16012341717	GUILSON DIAS	3313528
+Não
+Data hora sinistro
+09/04/2026
+07:50
+Data hora fim do atendimento no local
+09/04/2026
+09:20
+ Condições Ambientais e descrição do local
+Fase do dia
+Pleno dia
+Condição meteorológica
+Céu Claro
+Classificação da pista
+Principal
+Tipo de pista
+Simples
+Condição da pista
+
+Seca
+
+Molhada
+
+Com Buraco
+
+Com Gelo
+
+Com Lama
+
+Com Material Granulado
+
+Escorregadia
+Tipo do pavimento
+Asfalto
+Estrutura Viária
+
+Reta
+
+Curva
+
+Aclive
+
+Declive
+
+Interseção de Vias
+
+Rotatória
+
+Desvio Temporário
+
+Em Obras
+
+Ponte
+
+Viaduto
+
+Retorno Regulamentado
+
+Túnel
+Localidade urbanizada
+Existe canteiro central
+Existe acostamento
+ Situação do Local
+Imagem Panorâmica - Sentido Crescente (M015)
+No file chosen
+
+Imagem Panorâmica - Sentido decrescente (M015)
+No file chosen
+
+Justificativa pela não inclusão das fotos panorâmicas obrigatórias (M015)
+ Dano Social
+Houve dano ao patrimônio da união
+Houve dano ao meio ambiente
+ Presença externa na cena do sinistro
+Presença externa na cena do sinistro
+Sim	Não
+Presenças
+Presença na cena	Quem acionou? / Informações complementares	Data e hora do acionamento	Compareceu?	Data e hora do comparecimento
+Corpo de bombeiros	envolvidos	09/04/2026 07:50
+Sim
+ Informações Complementares
+Informações Complementares
+Imagens Complementares
+No file chosen
+ Nenhuma imagem selecionada
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Veículos
+Protocolo: 26019925B01
+V1
+Placa	Marca/modelo ou descrição		Ações
+JHT8426	PEUGEOT/206 14 SENSAT FX	Tracionador
+V2
+Placa	Marca/modelo ou descrição		Ações
+UBI8G06	MOTTU/SPORT 110I	Tracionador
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Identificação
+Protocolo: 26019925B01
+Sequencial/Tração
+V1
+Tracionador
+Tipo Emplacamento
+Nacional (registrado na base BIN)
+Sentido do Veículo
+Decrescente
+Placa
+JHT8426
+Tipo de veículo
+
+Automóvel
+Chassi
+9362AKFW98B038361
+Tipo de combustível
+Gasolina
+Renavam
+00945671563
+Marca/Modelo
+PEUGEOT/206 14 SENSAT FX
+Espécie
+Passageiro
+Categoria
+Particular
+Ano Fabricação
+2007
+Cor
+Prata
+Oficial da União?
+Velocidade máxima admitida na via
+40
+Km/h
+ Dados de registro do veículo
+Nome
+ARINALDO PEREIRA FONSECA
+CPF/CNPJ
+041.477.861-89
+Logradouro
+Número
+Complemento
+Bairro
+Município/UF (Emplacamento)
+BRASILIA-DF
+Telefone
+Email
+ Cronotacógrafo
+Cronotacógrafo é obrigatório para este veículo
+ Relatório de Avarias
+V trueV 1-JHT8426-PEUGEOT/206 14 SENSAT FX
+ANEXO I – RELATÓRIO DE AVARIAS PARA CLASSIFICAÇÃO DE DANOS EM VEÍCULOS SINISTRADOS – AUTOMÓVEIS, CAMIONETAS, CAMINHONETES E UTILITÁRIOS, COM ESTRUTURA EM MONOBLOCO – COMPONENTES, PEÇAS ESTRUTURAIS/SEGURANÇA PASSIVA AVARIADAS NO SINISTRO.
+Item	Danificado	Justificativa
+Painel corta-fogo
+Longarina dianteira esquerda
+Caixa de roda dianteira esquerda
+Estrutura da soleira esquerda
+Air Bags Frontais
+Air Bags Laterais
+Estrutura da coluna dianteira esquerda
+Estrutura da coluna central esquerda
+Estrutura da coluna traseira esquerda
+Caixa de roda traseira esquerda
+Assoalho central esquerdo
+Longarina traseira esquerda
+Assoalho portamalas ou caçamba
+Longarina traseira direita
+Caixa de roda traseira direita
+Estrutura da coluna traseira direita
+Estrutura da soleira direita
+Estrutura da coluna central direita
+Estrutura da coluna dianteira direita
+Assoalho central direito
+Caixa de roda dianteira direita
+Longarina dianteira direita
+Dano de monta
+PEQUENA MONTA (DPM) OU SEM DANO
+Imagem da frente
+No file chosen
+
+Imagem da lateral esquerda
+No file chosen
+
+Imagem da traseira
+No file chosen
+
+Imagem da lateral direita
+No file chosen
+ Imagem da lateral direita
+Justificativa pela não inserção de alguma das imagens do veículo
+Observações
+ Encaminhamento
+Veículo encaminhado
+ Informações complementares
+Manobra no momento do sinistro
+Realizando retorno irregular
+Informações complementares
+Imagens Complementares
+
+Disponível na impressão
+acesso irregular à escola
+No file chosen
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Identificação
+Protocolo: 26019925B01
+Sequencial/Tração
+V2
+Tracionador
+Tipo Emplacamento
+Nacional (registrado na base BIN)
+Sentido do Veículo
+Decrescente
+Placa
+UBI8G06
+Tipo de veículo
+
+Motocicleta
+Chassi
+92EC10BATTM005028
+Tipo de combustível
+Gasolina
+Renavam
+01483393167
+Marca/Modelo
+MOTTU/SPORT 110I
+Espécie
+Passageiro
+Categoria
+Particular
+Ano Fabricação
+2026
+Cor
+Preta
+Oficial da União?
+Velocidade máxima admitida na via
+40
+Km/h
+ Dados de registro do veículo
+Nome
+MOTTU VI S.A.
+CPF/CNPJ
+59.976.208/0002-74
+Logradouro
+Número
+Complemento
+Bairro
+Município/UF (Emplacamento)
+CURITIBA-PR
+Telefone
+Email
+ Cronotacógrafo
+Cronotacógrafo é obrigatório para este veículo
+ Relatório de Avarias
+V trueV 2-UBI8G06-MOTTU/SPORT 110I
+ANEXO II – RELATÓRIO DE AVARIAS PARA CLASSIFICAÇÃO DE DANOS EM VEÍCULOS SINISTRADOS – MOTOCICLETAS, CICLOMOTORES, TRICICLOS E QUADRICICLOS – COMPONENTES, PEÇAS ESTRUTURAIS/SEGURANÇA PASSIVA AVARIADAS NO SINISTRO.
+Item	Danificado	Justificativa
+Mesa superior da suspensão dianteira
+Mesa inferior da suspensão dianteira
+Coluna de direção
+Chassi
+Garfo traseiro
+Dano de monta
+PEQUENA MONTA (DPM) OU SEM DANO
+Imagem da frente
+No file chosen
+
+Imagem da lateral esquerda
+No file chosen
+
+Imagem da traseira
+No file chosen
+
+Imagem da lateral direita
+No file chosen
+
+Justificativa pela não inserção de alguma das imagens do veículo
+Observações
+ Encaminhamento
+Veículo encaminhado
+ Informações complementares
+Manobra no momento do sinistro
+Ultrapassando
+Informações complementares
+Após conversa com o condutor, este autorizou a liberação deste veículo para JACIARA PEREIRA FIUSA (07038039130)
+Imagens Complementares
+
+Disponível na impressão
+pessoa autorizada, pelo condutor, para ter a posse deste veículo
+No file chosen
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Pessoas
+26019925B01 - Boletim
+V1
+JHT8426
+Nome	Envolvimento	Estado Físico	Situação	Ações
+LIA REBECA MELO DE MORAES FONSECA	Condutor	Ileso	Identificado
+V2
+UBI8G06
+Nome	Envolvimento	Estado Físico	Situação	Ações
+IGOR ANDRADE DE CASTRO	Condutor	Lesões Leves	Identificado
+Nome	Envolvimento	Estado Físico	Situação	Ações
+Nenhum envolvido adicionado
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Identificação
+26019925B01 - Boletim
+Veículo
+V1-Nacional (registrado na base BIN)
+Situação
+Proprietário?
+Estado físico
+Ileso
+Morreu após remoção?
+CPF
+041.477.861-89
+Nome
+LIA REBECA MELO DE MORAES FONSECA
+Data nascimento
+07/08/1994
+Sexo
+Feminino
+Estado civil
+Grau instrução
+Nome da mãe
+LUCY ROSA MELO DE MORAES
+Logradouro
+QD 01 CS 49
+N°
+Complemento
+ST SUL
+Bairro
+BRAZANDIA
+Município/UF
+BRASILIA-DF
+Telefone
+Email
+ Habilitação
+Categoria
+B
+Motorista profissional?
+N° do registro
+06464698902
+UF
+DF
+Data 1ª habilitação
+08/09/2015
+Validade da habilitação
+22/10/2025
+Observações CNH
+99
+ Circunstâncias do indivíduo
+Usava cinto de segurança corretamente
+Sim
+Preencheu termo de declaração do envolvido?
+Imagem da declaração
+No file chosen
+
+ Uso de álcool e/ou substâncias psicoativas
+Não foi possível realizar o teste do etilômetro
+Recusou-se a realizar o teste do etilômetro
+Visíveis sinais de embriaguez
+Sinais de uso de substância psicoativa
+Resultado obtido
+0.0
+mg/l
+ Encaminhamento
+Envolvido encaminhado
+ Situação de vulnerabilidade social
+Envolvido encontra-se em situação de vulnerabilidade social
+ Informações complementares
+Descrição
+Imagens Complementares
+
+Disponível na impressão
+cnh
+No file chosen
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Identificação
+26019925B01 - Boletim
+Veículo
+V2-Nacional (registrado na base BIN)
+Situação
+Proprietário?
+Estado físico
+Lesões Leves
+Morreu após remoção?
+CPF
+072.898.211-06
+Nome
+IGOR ANDRADE DE CASTRO
+Data nascimento
+21/10/1996
+Sexo
+Masculino
+Estado civil
+Grau instrução
+Nome da mãe
+MARIA APARECIDA PEREIRA DE ANDRADE
+Logradouro
+QUADRA 08
+N°
+20
+Complemento
+CASA
+Bairro
+BRAZLANDIA
+Município/UF
+BRASILIA-DF
+Telefone
+Email
+ Habilitação
+Categoria
+AB
+Motorista profissional?
+N° do registro
+07883633500
+UF
+DF
+Data 1ª habilitação
+21/07/2022
+Validade da habilitação
+27/12/2031
+Observações CNH
+15
+ Circunstâncias do indivíduo
+Usava capacete corretamente
+Sim
+Preencheu termo de declaração do envolvido?
+ Uso de álcool e/ou substâncias psicoativas
+Não foi possível realizar o teste do etilômetro
+Descrição da impossibilidade de realização do teste
+em atendimento hospitalar
+Visíveis sinais de embriaguez
+Sinais de uso de substância psicoativa
+ Encaminhamento
+Envolvido encaminhado
+Motivo
+Socorro médico
+Tipo
+Hospital ou clínica
+Descrição
+Cidadão encaminhado pelo CBM-DF ao hospital regional de brazlândia
+ Situação de vulnerabilidade social
+Envolvido encontra-se em situação de vulnerabilidade social
+ Informações complementares
+Descrição
+Imagens Complementares
+No file chosen
+ Nenhuma imagem selecionada
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+Mostrar/Esconder MenuLPST
+ MÁRIO SEIXAS SALES
+ Causas
+26019925B01
+Causas Presumíveis  Para estatísticas. Não será disponibilizado na impressão.
+Tipo	Principal
+Ultrapassagem Indevida	Não
+Acesso irregular	Sim
+ Eventos Sucessivos
+Eventos Sucessivos
+Ordem	Tipo Evento	Veiculos	Ações
+1	Colisão lateral mesmo sentido
+ Amarração
+Tipo de Amarração (M-015)
+Justificativa pela não realização da amarração
+Não preconizada pelo manual para esta situação.
+ Narrativa
+[[placeholder]]
+versão 2.2.69Laudo Pericial de Sinistro de Trânsito
+
+
+      ```/new_raw_data
+    ]]></new_raw_data>
+
+    <attachment_files><![CDATA[
+      [[<!-- all the textual data enclosed within the files attached to this `prompt message` -->]]
+    ]]></attachment_files>
+  </input_data>
+
+  <output_specification>
+    <format>Plain text or Markdown, strictly mirroring the layout of the template.</format>
+    <language>Portuguese (Brazil)</language>
+  </output_specification>
+</prompt>
